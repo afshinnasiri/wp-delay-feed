@@ -17,6 +17,6 @@ function myfeed_delay( $param ) {
     }
     return $param;
 }
-add_filter( 'posts_where', 'wpb_snippet_publish_later_on_feed' );
+add_filter( 'posts_where', 'myfeed_delay' );
 ?>
 ```
