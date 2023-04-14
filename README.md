@@ -1,5 +1,5 @@
 #  Delay posts in WordPress rss feed
-you use this code in functions.php or another custom functions files:
+you can use this code in functions.php or another custom functions files:
 
 ```
 <?php
